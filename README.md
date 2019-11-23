@@ -1,0 +1,2 @@
+# SciAssist
+Automated Scientific Assistant
